@@ -1,5 +1,5 @@
 # Super Snakes And Ladders Game
-A project for the course OBJECT ORIENTED PROGRAMMING
+A project group for the course OBJECT ORIENTED PROGRAMMING
 # Project Overview
  •  Developed a digital version of Super Snakes and Ladders using C# and Visual Studio 2022. <br>
  •  Designed and implemented core game mechanics for an interactive user experience. <br>
